@@ -1,5 +1,6 @@
 
-const API_URL = "https://harudonghaeng-ai-proxy-x22h.vercel.app";
+const API_URL = "https://harudonghaeng-ai-proxy.vercel.app";
+
 // 대표님 서버 주소
 
 let currentMode = "";
