@@ -1,5 +1,5 @@
 
-const API_URL = "https://harudonghaeng-ai-proxy-omb0wmpiv-harudonghaeng.vercel.app/api/chat";
+const API_URL = "https://harudonghaeng-ai-proxy.vercel.app/api/chat";
 
 // 대표님 서버 주소
 
